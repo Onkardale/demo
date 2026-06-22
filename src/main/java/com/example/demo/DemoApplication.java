@@ -24,7 +24,10 @@ public class DemoApplication {
 		return "hello";
 	}
 
-
+@GetMapping("/ok")
+	public String myName1(){
+		return "Onkar";
+}
 
 
 }
