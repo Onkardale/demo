@@ -29,5 +29,9 @@ public class DemoApplication {
 		return "ShriRamHan Tech";
 }
 
+@GetMapping("/MCN")
+	public String mcn(){
+		return "ShriRamHan Tech";
+}
 
 }
