@@ -25,8 +25,8 @@ public class DemoApplication {
 	}
 
 @GetMapping("/ok")
-	public String myName1(){
-		return "Onkar";
+	public String MCN (){
+		return "ShriRamHan Tech";
 }
 
 
